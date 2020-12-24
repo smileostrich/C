@@ -1,5 +1,7 @@
 # c
 *.c.un
+.*.c.un~
+*.c~
 
 # vim swp
 *.swp
