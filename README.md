@@ -1,4 +1,4 @@
-CS_:APP with C
+CS:APP with C
 =============
 
 book - cs:app
